@@ -1,6 +1,13 @@
 # UE4OculusQuestTemplate
 UE4のVR TemplateをOculus Questで動作するように調整したものです。
 
+# Oculus 公式のサンプルが公開されました
+以下のRepositoryにて公式のサンプルが公開されています。<br>
+ハンドトラッキングのサンプルも含まれていますので、そちらを試したい方にもオススメです。<br>
+https://github.com/Oculus-VR/UnrealEngine
+<br>詳しいアクセス方法などは下記を御覧ください。<br>
+https://developer.oculus.com/documentation/unreal/unreal-samples/?locale=ja_JP
+
 ## UE4Version
 4.22.2
 
